@@ -1,20 +1,65 @@
-<h1 align=center>Hello there ;p</h1>
+![Cool animation](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
-<h3 align=center>~ I am just a student that likes programming ~</h3>
-
-<div align=center>< 🏳️‍⚧️ 🏳️‍🌈></div>
-
-###
+# Hello there ;p I'm Danyella Strikann
 
 <div align=center>
 
-[![Working on](https://img.shields.io/badge/Working_on-Validity%3ARE-dimgrey?labelColor=white&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACy0lEQVQ4jTWT3UtTcRyHP9%2Ffb56zne24ubWcNTcmNspQLAxrmURRdBOUIUZ1EUQRvcAKCrqoiyyE6qqChF5ISqLuwqDoouwVSyo1IkvN0kqjuRdd29l2zvl1YT1%2FwHPxwEPk2Yv%2FsEIKQP%2FO4Jxty9PdpmM1m7%2F%2BtiiuAUD5JADTSDGyBckWZNxJtuC%2Bjku57qHwUJd3d1n5BM0dCGsnD7%2BN2ACIULWQXGQLslm3kFy1h6Jtex6RpVzrXWdeDxX5FqKYcZ9a07Qhd3cXiTQ5VUnhFpqOQWRASu%2FZfqPIYQ4L%2BEfptolKARBKFAB8KO6OfY2nRV5ycSbVgpQMtZg6matipttp3Tr%2Fc6TRqTn4yDQqdUgFMHZkY7DaX%2FRoYNwCUgCQPcnN4jwgLbSRaixinaiel%2Bsc1m8ZylkfHEtFlbJpRcmLgTnMavdnqEV3awBGyl8PXuj4eK4bABx8BA%2B%2FBe7og1aaO0IfM9TDTzflST8fY62TgqeNYz8zxnOFNwAoala0p2%2Bti73iXkNOuS%2FXRZBJAoAdjLVOzob6fKpT5n5er2mXn4gPkBvC2gkPNvfLWwLIJPNdR2HGMRMnw9dD0Uj65kFMBviO77bmFgobYmocADEVgHb%2FU6FVyMEbTP7J9scYRSPmlbAUroBvrBAgCiUB5Pq%2BJN68Q4lLKFk2StZl1%2FSV48LpxXuyZC%2BU6qYqNz7B05Uyp1%2FP%2Biyq6navke0ADKR1HWNS6re1PoFBCxKCySVZJfSNndlrv1gmV1UBgMiK%2BBdQEoUZAKOdY8LpBYCmKSxhDACb6QKQlVSY8ZfHv%2Btpna0N0gJVTCcL7ROBUj83YujwQjWhmoxiD4ypFPc4rfmJ9PaJimTFn8Tv4dMJbc%2BvbPsraZcDk6RPlQHQ7yh4TxaKRriLUU0bZhyPxdeqgymhF1Plgx%2BVCNVFMld7eaPZ3oMDnn8L%2FAW3byabDKGjWgAAAABJRU5ErkJggg%3D%3D)](https://github.com/movva-gpu/ValidityRE)
-[![Studying](https://img.shields.io/badge/Studying_at-I.U.T._of_Troyes-red?labelColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAACgElEQVQ4jXWSvY5cRRCFv+ruO3dmZ3YZry2EIEDCJESOkElIkZAILUFCBEI8AKkDJFJyHoAHIEECiRxZFuRGa2wDks0ua+/83nu7q6sIFrxgmJOVqurUqaMDz6D+fMntx0P/5evgz/b+D/LPwu9fcbdK3Sq+jTxZDjw+c1670csugnSxfNWNCeBEuc9QDcGYtmnXLgDhgmpK8OcRfYj0ATPD3YjBOPpqsvOdAKB3527DMV6Uwa4TX6+4NZgX3B0h7lSQAOr3n7M++gC7W5h/csZwa0TXZbrNFK0RCXUngQA8fPtF93YgHACioEp/QzhdVFIcce39xVMT17fGPrt+YaoALD/e936b0CXc/vUyL780sHrrlMk40DZwstqi6RJX5luemwmC8so7WZ6+cPDFSgBOvtn3F+78xkm3R1sTk0nHvQctTXtIArp1pAyBZgSQLxQA+E+Xva56VmeV4+NAronJpBAk0vc92VtihCqFNrVkVa6920kCsKOJe+yw2SEzfYy5UQbFRHCvNG2kVMPl/OZmU5i05wkQvzd3MLA3wEd49x15K2huqDZQ9DxI5gXzgLqBtVQKuRjJXXAiIR6DXMXLmGasxKiYJZpayaVhNh2z7ZWiATUjaMAckntBpMHrH7ifIhIhGoISckt1B5zqYDVQVSnVAKP0BySKQBCQNVTDPQCKaY/VERVBNbNcNqgqpQpuY3IO/P6kklYLZ39v+MuQgKtSNdGXPTQLXW9kDbgb1QJWI0PJLJaBNz/aigA8+Db4fNoSZIR5T1HIfWLTQ9eBo2ht6TrnbJV4tHj1sw8/vX3zXzn4Gz98eeBgmCc264FqY4bsLNdj3rv56D/zfwKDQ35gQZS3zgAAAABJRU5ErkJggg==)](https://www.iut-troyes.univ-reims.fr)
-[![Contact](https://img.shields.io/badge/📫_Contact-danyella.strikann%40etudiant.univ--reims.fr-1E1E1E?labelColor=white)](mailto:danyella.strikann@etudiant.univ-reims.fr)
-[![Pronouns](https://img.shields.io/badge/👩🏻‍🦱_Pronouns-she%2Fthey%2Fand%20more!-blue?labelColor=white)](https://github.com/movva-gpu/)
+![Profile views](https://komarev.com/ghpvc/?username=movva-gpu&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
 
+
+
+## About me
+
+- 🔭 I’m currently working on [Validity:RE](https://github.com/movva-gpu/ValidityRE)
+- 👯 I’m looking to collaborate on [Validity:RE](https://github.com/movva-gpu/ValidityRE)
+- 🌱 I’m currently learning **TypeScript, PHP, Git**
+- 📫 Reach me at: **<allenyade.pro@gmail.com>**
+- ⚡ Fun fact: **I love Doctor Who**
+
+## Socials
+
 <div align=center>
 
-[<img src="https://github.com/movva-gpu/movva-gpu/blob/main/banner.png?raw=true">](https://github.com/movva-gpu/)
+[![Linked in badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyella-strikann)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/movva-gpu)
+[![GMail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allenyade.pro@gmail.com)
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://piaille.fr/@danyella_strikann)
+
+</div>
+
+## Languages and Tools
+
+[![Typescript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/48px-Typescript_logo_2020.svg.png)](https://www.typescriptlang.org)
+![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png)
+[![Java](https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/26px-Java_Logo.svg.png)](https://www.java.com/)
+![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/48px-C_Programming_Language.svg.png)
+![C-Sharp](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/48px-C_Sharp_Logo_2023.svg.png)
+[![Node.JS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/48px-Node.js_logo.svg.png)](https://nodejs.org/)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/48px-HTML5_logo_and_wordmark.svg.png)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/34px-CSS3_logo_and_wordmark.svg.png)
+[![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/48px-PHP-logo.svg.png)](https://php.net)
+<img src=https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-192x192.png width=48 alt=Docker></img>
+[<img src=https://raw.githubusercontent.com/VSCodium/vscodium/6ada8c9026e0560417ade5c788103f56d9588fd6/icons/stable/codium_clt.svg width=48 alt=VSCodium>](https://vscodium.com)
+[![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/48px-Adobe_Photoshop_CC_icon.svg.png)](https://www.adobe.com/fr/products/photoshop.html)
+[![Adobe Illustrator](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/48px-Adobe_Illustrator_CC_icon.svg.png)](https://www.adobe.com/fr/products/illustrator.html)
+[![Adobe AfterFX](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/48px-Adobe_After_Effects_CC_icon.svg.png)](https://www.adobe.com/fr/products/aftereffects.html)
+[![Adobe Lightroom Classic](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/48px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png)](https://www.adobe.com/fr/products/photoshop-lightroom-classic.html)
+[![Blender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/48px-Blender_logo_no_text.svg.png)](https://blender.org/)
+[<img src=https://cdn.sanity.io/images/fuvbjjlp/production/f4277b96800be1707ef6ec3805cb5380a97a6655-1192x403.png width=96 alt=Unity>](https://unity.com/)
+[![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/48px-Arduino_Logo.svg.png)](https://arduino.cc)
+[<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=48>](https://git-scm.com/)
+[![Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/40px-Linux_Logo.jpg.png)](https://linux.org)
+
+## Stats
+
+<div align=center>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=movva-gpu&langs_count=4)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=movva-gpu&show_icons=true&locale=en)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=movva-gpu)
+
 </div>
