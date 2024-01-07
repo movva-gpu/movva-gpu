@@ -47,7 +47,7 @@
 [![Adobe AfterFX](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/48px-Adobe_After_Effects_CC_icon.svg.png)](https://www.adobe.com/fr/products/aftereffects.html)
 [![Adobe Lightroom Classic](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/48px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png)](https://www.adobe.com/fr/products/photoshop-lightroom-classic.html)
 [![Blender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/48px-Blender_logo_no_text.svg.png)](https://blender.org/)
-[<img src=https://cdn.sanity.io/images/fuvbjjlp/production/f4277b96800be1707ef6ec3805cb5380a97a6655-1192x403.png width=96 alt=Unity>](https://unity.com/)
+[<img src=https://cdn.sanity.io/images/fuvbjjlp/production/bd6440647fa19b1863cd025fa45f8dad98d33181-2000x2000.png width=48 alt=Unity>](https://unity.com/)
 [![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/48px-Arduino_Logo.svg.png)](https://arduino.cc)
 [<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=48>](https://git-scm.com/)
 [![Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/40px-Linux_Logo.jpg.png)](https://linux.org)
