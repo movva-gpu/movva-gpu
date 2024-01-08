@@ -1,6 +1,6 @@
 ![Cool animation](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
-# Hello there ;p I'm Danyella Strikann
+# Hello there ;p I'm Danyella
 
 <div align=center>
 
@@ -56,7 +56,7 @@
 
 <div align=center>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=movva-gpu&langs_count=4)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=movva-gpu&langs_count=3)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=movva-gpu&show_icons=true&locale=en)
 
