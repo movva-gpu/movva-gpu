@@ -1,13 +1,14 @@
 ![Cool animation](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
+<div align=center><img src="./6M5A0164_square.png" width=256></div>
 
 # Hello there ;p I'm Danyella
 
 <div align=center>
 
-![Profile views](https://komarev.com/ghpvc/?username=movva-gpu&label=Profile%20views&color=0e75b6&style=flat)
+
+![Profile views](https://komarev.com/ghpvc/?username=movva-gpu&label=Profile%20views&style=for-the-badge&color=ff22aa)
 
 </div>
-
 
 
 ## About me
