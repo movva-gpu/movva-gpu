@@ -13,7 +13,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on [Validity:RE](https://github.com/movva-gpu/ValidityRE)
+- 🔭 I’m currently working on [my portfolio](https://github.com/movva-gpu/PortfolioV2)
 - 👯 I’m looking to collaborate on [Validity:RE](https://github.com/movva-gpu/ValidityRE)
 - 🌱 I’m currently learning **TypeScript, PHP, Git**
 - 📫 Reach me at: **<allenyade.pro@gmail.com>**
