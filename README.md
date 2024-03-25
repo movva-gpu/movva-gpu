@@ -13,11 +13,11 @@
 
 ## About me
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/movva-gpu/PortfolioV2)
-- 👯 I’m looking to collaborate on [Validity:RE](https://github.com/movva-gpu/ValidityRE)
-- 🌱 I’m currently learning **TypeScript, PHP, Git**
+- ⌨️ I’m currently working on [Validity-REST](https://github.com/movva-gpu/Validity-REST)
+- 🫱🏻‍🫲🏼 I’m looking to collaborate on [Validity](https://github.com/movva-gpu/ValidityRE) and [Validity-REST](https://github.com/movva-gpu/Validity-REST)
+- 📖 I’m currently learning **Node.JS, Express, MongoDB and MariaDB**
 - 📫 Reach me at: **<allenyade.pro@gmail.com>**
-- ⚡ Fun fact: **I love Doctor Who**
+- 📞 Fun fact: **I love Doctor Who**
 
 ## Socials
 
