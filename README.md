@@ -33,25 +33,18 @@
 ## Languages and Tools
 
 [![Typescript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/48px-Typescript_logo_2020.svg.png)](https://www.typescriptlang.org)
-![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png)
 [![Java](https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/26px-Java_Logo.svg.png)](https://www.java.com/)
-![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/48px-C_Programming_Language.svg.png)
-![C-Sharp](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/48px-C_Sharp_Logo_2023.svg.png)
+[![Kotlin Lang Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/48px-Kotlin_Icon_2021.svg.png)](https://kotlinlang.org/)
 [![Node.JS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/48px-Node.js_logo.svg.png)](https://nodejs.org/)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/48px-HTML5_logo_and_wordmark.svg.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/34px-CSS3_logo_and_wordmark.svg.png)
+<a href="https://bun.sh"><img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun logo"></a>
+[![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/48px-HTML5_logo_and_wordmark.svg.png)](https://html.spec.whatwg.org/multipage/)
+[![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/34px-CSS3_logo_and_wordmark.svg.png)](https://www.w3.org/Style/CSS/)
 [![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/48px-PHP-logo.svg.png)](https://php.net)
-<img src=https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-192x192.png width=48 alt=Docker></img>
-[<img src=https://raw.githubusercontent.com/VSCodium/vscodium/6ada8c9026e0560417ade5c788103f56d9588fd6/icons/stable/codium_clt.svg width=48 alt=VSCodium>](https://vscodium.com)
-[![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/48px-Adobe_Photoshop_CC_icon.svg.png)](https://www.adobe.com/fr/products/photoshop.html)
-[![Adobe Illustrator](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/48px-Adobe_Illustrator_CC_icon.svg.png)](https://www.adobe.com/fr/products/illustrator.html)
-[![Adobe AfterFX](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/48px-Adobe_After_Effects_CC_icon.svg.png)](https://www.adobe.com/fr/products/aftereffects.html)
-[![Adobe Lightroom Classic](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/48px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png)](https://www.adobe.com/fr/products/photoshop-lightroom-classic.html)
+[<img src=https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-192x192.png width=48 alt=Docker>](https://www.docker.com/)
+![WebStorm](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/48px-WebStorm_Icon.svg.png)
+![WebStorm](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/48px-IntelliJ_IDEA_Icon.svg.png)
 [![Blender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/48px-Blender_logo_no_text.svg.png)](https://blender.org/)
-[<img src=https://cdn.sanity.io/images/fuvbjjlp/production/bd6440647fa19b1863cd025fa45f8dad98d33181-2000x2000.png width=48 alt=Unity>](https://unity.com/)
-[![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/48px-Arduino_Logo.svg.png)](https://arduino.cc)
 [<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=48>](https://git-scm.com/)
-[![Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/40px-Linux_Logo.jpg.png)](https://linux.org)
 
 ## Stats
 
