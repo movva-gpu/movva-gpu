@@ -13,9 +13,9 @@
 
 ## About me
 
-- ⌨️ I’m currently working on [Validity-REST](https://github.com/movva-gpu/Validity-REST)
+<!-- - ⌨️ I’m learning working on [Validity-REST](https://github.com/movva-gpu/Validity-REST) -->
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on [Validity](https://github.com/movva-gpu/ValidityRE) and [Validity-REST](https://github.com/movva-gpu/Validity-REST)
-- 📖 I’m currently learning **Node.JS, Express, MongoDB and MariaDB**
+- 📖 I’m currently learning **Svelte and MongoDB**
 - 📫 Reach me at: **<allenyade.pro@gmail.com>**
 - 📞 Fun fact: **I love Doctor Who**
 
