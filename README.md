@@ -32,6 +32,8 @@
 
 ## Languages and Tools
 
+<div align=center>
+
 [![Typescript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/48px-Typescript_logo_2020.svg.png)](https://www.typescriptlang.org)
 [![Java](https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/26px-Java_Logo.svg.png)](https://www.java.com/)
 [![Kotlin Lang Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/48px-Kotlin_Icon_2021.svg.png)](https://kotlinlang.org/)
@@ -45,6 +47,8 @@
 ![WebStorm](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/48px-IntelliJ_IDEA_Icon.svg.png)
 [![Blender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/48px-Blender_logo_no_text.svg.png)](https://blender.org/)
 [<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=48>](https://git-scm.com/)
+
+</div>
 
 ## Stats
 
