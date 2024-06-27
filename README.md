@@ -13,7 +13,7 @@
 
 ## About me
 
-- ⌨️ I’m working on [nec.js](https://github.com/movva-gpu/Grapes)
+- ⌨️ I’m working on [nec.js](https://github.com/movva-gpu/Grapes), [my blog](https://github.com/movva-gpu/Blog), and [JanKy](https://github.com/movva-gpu/JanKy)
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on [Validity](https://github.com/movva-gpu/Validity)
 - 📖 I’m currently learning **Svelte and HTMX**
 - 📫 Reach me at: **<allenyade.pro@gmail.com>**
