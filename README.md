@@ -13,9 +13,8 @@
 
 ## About me
 
-- ⌨️ I’m working on so many stuff I don't know what to do x)
+- ⌨️ I’m working on [random_git](https://github.com/movva-gpu/random_git)
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on [Validity](https://github.com/movva-gpu/Validity)
-<!-- - 📖 I’m currently learning ... -->
 - 📫 Reach me at: **<allenyade.pro@gmail.com>**
 - 📞 Fun fact: **I love Doctor Who**
 
